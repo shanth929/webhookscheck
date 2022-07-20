@@ -6,3 +6,4 @@ big3();
 palindrome();
 fact();
 }
+///
